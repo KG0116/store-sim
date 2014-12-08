@@ -10,7 +10,7 @@
 <br />
 python sim.py 'rate<sub>1</sub>,...,rate<sub>n</sub>'  time_factor(int) time_unit(h,d,m,y) 
 <br />
-<sub>where rate<sub>1</sub> through rate<sub>n</sub> represent the rate at which customers enter each of the n stores every hour, time_factor represents the number of specified time units, and time_unit can be an hour, day, month, or year. </sub>
+<sub>where rate<sub>1</sub> through rate<sub>n</sub> represent the rates at which customers enter each of the n stores every hour, time_factor represents the number of specified time units, and time_unit can be an hour, day, month, or year. </sub>
 
 <br />
 **Sample simulation run:**
